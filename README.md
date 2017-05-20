@@ -4,7 +4,7 @@ This is a collection of freelancer resources that I've used and feel would be us
 ## Table of Contents
 
 - [Finding a Gig](#-finding-a-gig)
-- [Project Management](#-project-management),,mmn
+- [Project Management](#-project-management)
 - [Promotion](#-promotion)
 - [Social Media](#-social-media)
 - [Accounting](#-accounting)
