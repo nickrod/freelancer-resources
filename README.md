@@ -5,7 +5,6 @@ This is a collection of freelancer resources that I've used and feel would be us
 
 - [Finding a Gig](#-finding-a-gig)
 - [Project Management](#-project-management)
-- [Promotion](#-promotion)
 - [Social Media](#-social-media)
 - [Accounting](#-accounting)
 
@@ -14,9 +13,6 @@ This is a collection of freelancer resources that I've used and feel would be us
 * [Freelancer](https://www.freelancer.com/)
 
 ## [↑](#table-of-contents) Project Management
-* [Trello](https://trello.com/)
-
-## [↑](#table-of-contents) Promotion
 * [Trello](https://trello.com/)
 
 ## [↑](#table-of-contents) Social Media
