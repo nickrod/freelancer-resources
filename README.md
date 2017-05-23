@@ -13,7 +13,7 @@ This is a collection of freelancer resources that I've used and feel would be us
 * [Freelancer](https://www.freelancer.com/)
 
 ## [↑](#table-of-contents) Project Management
-* [Trello](https://trello.com/)
+* [Trello](https://trello.com/) - Great tool for pm and collaboration. It stands out by being very simple and intuitive.
 
 ## [↑](#table-of-contents) Social Media
 * [Hootsuite](https://hootsuite.com/)
