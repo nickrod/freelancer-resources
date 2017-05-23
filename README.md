@@ -21,6 +21,8 @@ This is a collection of freelancer resources that I've used and feel would be us
 
 ## [↑](#table-of-contents) Social Media
 * [Hootsuite](https://hootsuite.com/)
+* [Buffer](https://buffer.com/)
+* [BuzzSumo](http://buzzsumo.com/)
 
 ## [↑](#table-of-contents) Accounting
-* [Trello](https://trello.com/)
+* [Freshbooks](https://www.freshbooks.com/)
