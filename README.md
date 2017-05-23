@@ -20,7 +20,7 @@ This is a collection of freelancer resources that I've used and feel would be us
 * [Trello](https://trello.com/)
 
 ## [↑](#table-of-contents) Social Media
-* [Trello](https://trello.com/)
+* [Hootsuite](https://hootsuite.com/)
 
 ## [↑](#table-of-contents) Accounting
 * [Trello](https://trello.com/)
